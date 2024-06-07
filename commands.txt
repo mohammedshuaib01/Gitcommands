@@ -1,0 +1,9 @@
+git commands are follows:
+
+git config --list [show the git usernmae , email etc]
+
+git config --global user.name "shuaib" [to set a git usernmae]
+
+git config --global user.email "shuaib@gmail.com" [to set the  user email]
+
+git init [to initialise the git in the system]
