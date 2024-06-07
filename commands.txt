@@ -6,4 +6,12 @@ git config --global user.name "shuaib" [to set a git usernmae]
 
 git config --global user.email "shuaib@gmail.com" [to set the  user email]
 
-git init [to initialise the git in the system]
+git init [to initialise the git in present working directory]
+
+git status [ to list the untracked files]
+
+git add -A [to add all the untracked files to staging area]
+
+git commit -m "commit message" [to commit staging files to localrepository]
+
+git log 
